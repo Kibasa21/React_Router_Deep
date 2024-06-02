@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Live","image":"https://i.ytimg.com/vi/hGCMeI-5-ss/hqdefault.jpg","date":"2024-06-02","description":"I need to live.","id":"c09c5d78-f778-401e-9333-8ddce2f5e7b5"},{"title":"Getting a job","image":"https://www.gruposeres.com.br/wp-content/uploads/2023/07/post_thumbnail-90b4b5bbc025f038869693333a499928.jpeg","date":"2024-06-03","description":"I need a job, please. I'm doing my best","id":"cdb44009-0b0c-486d-9e46-701d849cdf75"},{"title":"BRING ME THE HORIZON São Paulo","image":"https://allianzparque.com.br/wp-content/uploads/2024/04/site-bring-me-the-horizon-1024x674.jpg","date":"2024-11-30","description":"Uhuuuuuuu, vai ser massa","id":"fd5c439c-c51f-4f34-a229-1747cf1315de"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
